@@ -1,2 +1,2 @@
 # FSD
-we are beginers
+materials of fsd
